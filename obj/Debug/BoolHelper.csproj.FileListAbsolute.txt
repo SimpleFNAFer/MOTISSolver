@@ -1,0 +1,7 @@
+E:\Настя\AppProjectsVS\BoolHelper\bin\Debug\BoolHelper.exe.config
+E:\Настя\AppProjectsVS\BoolHelper\bin\Debug\BoolHelper.exe
+E:\Настя\AppProjectsVS\BoolHelper\bin\Debug\BoolHelper.pdb
+E:\Настя\AppProjectsVS\BoolHelper\obj\Debug\BoolHelper.csprojAssemblyReference.cache
+E:\Настя\AppProjectsVS\BoolHelper\obj\Debug\BoolHelper.csproj.CoreCompileInputs.cache
+E:\Настя\AppProjectsVS\BoolHelper\obj\Debug\BoolHelper.exe
+E:\Настя\AppProjectsVS\BoolHelper\obj\Debug\BoolHelper.pdb
